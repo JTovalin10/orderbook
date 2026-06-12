@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/var/home/jtovalin/Desktop/code/orderbook/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
